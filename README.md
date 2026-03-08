@@ -117,5 +117,5 @@ java -cp .;lib/mysql-connector-j-9.4.0.jar LoginGUI
 ## 👩‍💻 Author
 
 **Ayushi Karn**  
-B.E. Computer Science — Bharati Vidyapeeth (Deemed University), Pune  
-[LinkedIn](https://linkedin.com/in/ayushi-karn) | [GitHub](https://github.com/ayushikarn610-bvp)
+B.Tech Computer Science and Engineering — Bharati Vidyapeeth (Deemed University) College of Engineering, Pune  
+
