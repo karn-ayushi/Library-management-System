@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LoginGUI",
+            "request": "launch",
+            "mainClass": "LoginGUI",
+            "projectName": "projects_1c28955f"
+        },
+        {
+            "type": "java",
+            "name": "LibraryGUI",
+            "request": "launch",
+            "mainClass": "LibraryGUI",
+            "projectName": "projects_1c28955f"
+        },
+        {
+            "type": "java",
+            "name": "LibraryFrontend",
+            "request": "launch",
+            "mainClass": "LibraryFrontend",
+            "projectName": "projects_1c28955f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
